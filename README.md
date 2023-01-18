@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="github-snake.svg">
 </picture>
 <div>
-![snake animation](https://github.com/nikoProg/nikoProg/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/nikoProg/nikoProg/blob/output/github-snake-dark.svg)
 </div>
