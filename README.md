@@ -1,4 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋;-->
+### I am an aspiring software engineer, currently learning web development.
 
 <!--
 **nikoProg/nikoProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
-
-<div>
+  ##
+ 
+<div> 
+ 
  ![Snake animation](https://github.com/Sutil/Sutil/blob/output/github-snake-dark.svg)
 </div>
