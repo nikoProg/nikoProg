@@ -19,5 +19,5 @@ Here are some ideas to get you started:
  
 <div> 
  
- ![Snake animation](https://github.com/Sutil/Sutil/blob/output/github-snake-dark.svg)
+ ![Snake animation](https://github.com/nikoProg/nikoProg/blob/output/github-snake-dark.svg)
 </div>
