@@ -21,3 +21,5 @@ Here are some ideas to get you started:
  
  ![Snake animation](https://github.com/nikoProg/nikoProg/blob/output/github-snake-dark.svg)
 </div>
+
+this page has been loaded ![Visitor Count](https://profile-counter.glitch.me/nikoProg/count.svg) times
