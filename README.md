@@ -1,5 +1,5 @@
 <!--### Hi there 👋;-->
-### I am an aspiring software engineer, currently learning web development.
+### I am an aspiring software engineer, currently learning web development. Interested in open source software.
 
 <!--
 **nikoProg/nikoProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
